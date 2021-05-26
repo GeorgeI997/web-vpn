@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T07:03:22.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="Z_LwrNJWpUIkWn68eacU" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-26T10:31:04.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="lO-e-z53S7oyojeQYpxm" version="14.7.0" type="github" pages="2">
   <diagram id="W5WCuhoOwF-zo8wow_NF" name="Page-1">
     <mxGraphModel dx="820" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,6 +72,41 @@
             <mxPoint x="371" y="546.9927689594356" as="sourcePoint" />
             <mxPoint x="300" y="552.0015873015873" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="OC-D9NKtNdKCuH-kdqZ6" name="Page-2">
+    <mxGraphModel dx="820" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="dNC3qKNQeRgzjOXp19lq-0" />
+        <mxCell id="dNC3qKNQeRgzjOXp19lq-1" parent="dNC3qKNQeRgzjOXp19lq-0" />
+        <mxCell id="dNC3qKNQeRgzjOXp19lq-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="dNC3qKNQeRgzjOXp19lq-1">
+          <mxGeometry x="230" y="240" width="320" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="dNC3qKNQeRgzjOXp19lq-2" value="http协议解析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="dNC3qKNQeRgzjOXp19lq-1">
+          <mxGeometry x="270" y="260" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dNC3qKNQeRgzjOXp19lq-3" value="http响应封装" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="dNC3qKNQeRgzjOXp19lq-1">
+          <mxGeometry x="340" y="260" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dNC3qKNQeRgzjOXp19lq-4" value="ws协议解析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="dNC3qKNQeRgzjOXp19lq-1">
+          <mxGeometry x="340" y="400" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dNC3qKNQeRgzjOXp19lq-5" value="ws处理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="dNC3qKNQeRgzjOXp19lq-1">
+          <mxGeometry x="410" y="400" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dNC3qKNQeRgzjOXp19lq-6" value="会话管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="dNC3qKNQeRgzjOXp19lq-1">
+          <mxGeometry x="410" y="545" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dNC3qKNQeRgzjOXp19lq-7" value="监听线程" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="dNC3qKNQeRgzjOXp19lq-1">
+          <mxGeometry x="480" y="400" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dNC3qKNQeRgzjOXp19lq-8" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="dNC3qKNQeRgzjOXp19lq-1">
+          <mxGeometry x="160" y="240" width="40" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="dNC3qKNQeRgzjOXp19lq-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="dNC3qKNQeRgzjOXp19lq-1">
+          <mxGeometry x="640" y="250" width="50" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

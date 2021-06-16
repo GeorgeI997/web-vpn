@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T07:43:30.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" version="14.7.8" etag="K6NLpSeTAkKXZz74hzeQ" type="github"><diagram id="Vc8znIlOkNOBz5esp3x1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-16T08:02:29.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="AyKdsbvbY7aMrWSLKMdE" version="14.7.8" type="github">
+  <diagram id="Vc8znIlOkNOBz5esp3x1" name="Page-1">
+    <mxGraphModel dx="683" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i3mF8PBuOg7z4iGojDpi-1" value="SSH msg" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i3mF8PBuOg7z4iGojDpi-2" value="HTTP/WS协议&lt;br&gt;&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i3mF8PBuOg7z4iGojDpi-3" value="SSL协议&lt;br&gt;&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i3mF8PBuOg7z4iGojDpi-4" value="&lt;span&gt;服务器认证&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="416" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i3mF8PBuOg7z4iGojDpi-5" value="数据机密性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="416" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i3mF8PBuOg7z4iGojDpi-7" value="信息完整性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="416" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i3mF8PBuOg7z4iGojDpi-8" value="&lt;span&gt;用户认证&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="346" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i3mF8PBuOg7z4iGojDpi-9" value="长连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="346" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i3mF8PBuOg7z4iGojDpi-10" value="&lt;span&gt;静态资源获取&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="346" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i3mF8PBuOg7z4iGojDpi-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="310" width="300" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

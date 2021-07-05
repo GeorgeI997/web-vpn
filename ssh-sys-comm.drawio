@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T02:47:05.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="d5_9uZPNdUzRii4xTBFV" version="14.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T12:27:49.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="7g5mUiaB1M0yCuNjCUdY" version="14.8.4" type="github">
   <diagram id="ED703zKi4prlpvRcowPC" name="Page-1">
-    <mxGraphModel dx="820" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="412" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
             <mxPoint x="240" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2aPY3oi1z3smAxlEYfkH-8" value="https 请求静态资源" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2aPY3oi1z3smAxlEYfkH-4" vertex="1" connectable="0">
+        <mxCell id="2aPY3oi1z3smAxlEYfkH-8" value="https request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2aPY3oi1z3smAxlEYfkH-4" vertex="1" connectable="0">
           <mxGeometry x="0.1321" y="1" relative="1" as="geometry">
             <mxPoint x="-9" as="offset" />
           </mxGeometry>
@@ -48,7 +48,7 @@
             <mxPoint x="80" y="209" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2aPY3oi1z3smAxlEYfkH-11" value="https res" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2aPY3oi1z3smAxlEYfkH-9" vertex="1" connectable="0">
+        <mxCell id="2aPY3oi1z3smAxlEYfkH-11" value="https response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2aPY3oi1z3smAxlEYfkH-9" vertex="1" connectable="0">
           <mxGeometry x="-0.1607" y="-1" relative="1" as="geometry">
             <mxPoint x="-15" as="offset" />
           </mxGeometry>
@@ -59,7 +59,7 @@
             <mxPoint x="240" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2aPY3oi1z3smAxlEYfkH-15" value="wss 握手且携带配置信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2aPY3oi1z3smAxlEYfkH-12" vertex="1" connectable="0">
+        <mxCell id="2aPY3oi1z3smAxlEYfkH-15" value="wss handshark" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2aPY3oi1z3smAxlEYfkH-12" vertex="1" connectable="0">
           <mxGeometry x="0.1929" relative="1" as="geometry">
             <mxPoint x="-18" as="offset" />
           </mxGeometry>
@@ -70,7 +70,7 @@
             <mxPoint x="400" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2aPY3oi1z3smAxlEYfkH-19" value="ssh握手" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2aPY3oi1z3smAxlEYfkH-18" vertex="1" connectable="0">
+        <mxCell id="2aPY3oi1z3smAxlEYfkH-19" value="ssh handshark" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2aPY3oi1z3smAxlEYfkH-18" vertex="1" connectable="0">
           <mxGeometry x="0.1321" y="1" relative="1" as="geometry">
             <mxPoint x="-9" as="offset" />
           </mxGeometry>
@@ -181,7 +181,7 @@
             <mxPoint x="240" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2aPY3oi1z3smAxlEYfkH-42" value="ssh停止" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2aPY3oi1z3smAxlEYfkH-41" vertex="1" connectable="0">
+        <mxCell id="2aPY3oi1z3smAxlEYfkH-42" value="ssh stop" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2aPY3oi1z3smAxlEYfkH-41" vertex="1" connectable="0">
           <mxGeometry x="-0.1607" y="-1" relative="1" as="geometry">
             <mxPoint x="-15" as="offset" />
           </mxGeometry>
@@ -192,7 +192,7 @@
             <mxPoint x="80" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2aPY3oi1z3smAxlEYfkH-47" value="wss停止" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2aPY3oi1z3smAxlEYfkH-46" vertex="1" connectable="0">
+        <mxCell id="2aPY3oi1z3smAxlEYfkH-47" value="wss stop" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2aPY3oi1z3smAxlEYfkH-46" vertex="1" connectable="0">
           <mxGeometry x="-0.1607" y="-1" relative="1" as="geometry">
             <mxPoint x="-15" as="offset" />
           </mxGeometry>
@@ -203,7 +203,7 @@
             <mxPoint x="240" y="169" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5QrnncAumbHNalsHD-51-2" value="ssl握手" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5QrnncAumbHNalsHD-51-1" vertex="1" connectable="0">
+        <mxCell id="5QrnncAumbHNalsHD-51-2" value="ssl handshark" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5QrnncAumbHNalsHD-51-1" vertex="1" connectable="0">
           <mxGeometry x="0.1321" y="1" relative="1" as="geometry">
             <mxPoint x="-9" as="offset" />
           </mxGeometry>
